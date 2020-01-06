@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Eddie Webb</title>
-    <link>https://example.com/</link>
+    <link>https://carolinadp.github.io/</link>
     <description>Recent content in Home on Eddie Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carolinadp.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atlassian Deployment Triggers</title>
-      <link>https://example.com/projects/contributions/deploy-triggers/</link>
+      <link>https://carolinadp.github.io/projects/contributions/deploy-triggers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/contributions/deploy-triggers/</guid>
+      <guid>https://carolinadp.github.io/projects/contributions/deploy-triggers/</guid>
       <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
     </item>
     
     <item>
       <title>SGAS: Sequential Greedy Architecture Search</title>
-      <link>https://example.com/publications/sgas/</link>
+      <link>https://carolinadp.github.io/publications/sgas/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/sgas/</guid>
+      <guid>https://carolinadp.github.io/publications/sgas/</guid>
       <description>Architecture design has become a crucial component of successful deep learning. Recent progress in automatic neural architecture search (NAS) shows a lot of promise. However, discovered architectures often fail to generalize in the final evaluation. Architectures with a higher validation accuracy during the search phase may perform worse in the evaluation (see Figure 1). Aiming to alleviate this common issue, we introduce sequential greedy architecture search (SGAS), an efficient method for neural architecture search.</description>
     </item>
     
     <item>
       <title>DeepGCNs: Making GCNs Go as Deep as CNNs</title>
-      <link>https://example.com/publications/deepgcns/</link>
+      <link>https://carolinadp.github.io/publications/deepgcns/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/deepgcns/</guid>
+      <guid>https://carolinadp.github.io/publications/deepgcns/</guid>
       <description>Convolutional Neural Networks (CNNs) have been very successful at solving a variety of computer vision tasks such as object classification and detection, semantic segmentation, activity understanding, to name just a few. One key enabling factor for their great performance has been the ability to train very deep CNNs. Despite their huge success in many tasks, CNNs do not work well with non-Euclidean data which is prevalent in many real-world applications. Graph Convolutional Networks (GCNs) offer an alternative that allows for non-Eucledian data as input to a neural network similar to CNNs.</description>
     </item>
     
     <item>
       <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://example.com/projects/contributions/shields-docker/</link>
+      <link>https://carolinadp.github.io/projects/contributions/shields-docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/contributions/shields-docker/</guid>
+      <guid>https://carolinadp.github.io/projects/contributions/shields-docker/</guid>
       <description>Shields.io is a massive library of badges that can be inserted into project README&#39;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
     </item>
     
     <item>
       <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://example.com/projects/contributions/schema-org/</link>
+      <link>https://carolinadp.github.io/projects/contributions/schema-org/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/contributions/schema-org/</guid>
+      <guid>https://carolinadp.github.io/projects/contributions/schema-org/</guid>
       <description>While adding Structured Data to a client&#39;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
     </item>
     
     <item>
       <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://example.com/projects/creations/bosh-agents/</link>
+      <link>https://carolinadp.github.io/projects/creations/bosh-agents/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/bosh-agents/</guid>
+      <guid>https://carolinadp.github.io/projects/creations/bosh-agents/</guid>
       <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&#39;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
     </item>
     
     <item>
       <title>Forcing Visits to use SSL</title>
-      <link>https://example.com/blog/force-ssl/</link>
+      <link>https://carolinadp.github.io/blog/force-ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/blog/force-ssl/</guid>
+      <guid>https://carolinadp.github.io/blog/force-ssl/</guid>
       <description>Intro Doesn&#39;t matter whether it&#39;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
  First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;rdquo; attack.</description>
     </item>
     
     <item>
       <title>Atlassian Marketplace Plugins</title>
-      <link>https://example.com/projects/creations/marketplace/</link>
+      <link>https://carolinadp.github.io/projects/creations/marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/marketplace/</guid>
+      <guid>https://carolinadp.github.io/projects/creations/marketplace/</guid>
       <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
     </item>
     
     <item>
       <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://example.com/projects/creations/docker-marketplace/</link>
+      <link>https://carolinadp.github.io/projects/creations/docker-marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/docker-marketplace/</guid>
+      <guid>https://carolinadp.github.io/projects/creations/docker-marketplace/</guid>
       <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>https://example.com/search/</link>
+      <link>https://carolinadp.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/search/</guid>
+      <guid>https://carolinadp.github.io/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
