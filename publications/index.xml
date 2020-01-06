@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Eddie Webb</title>
+    <link>https://example.com/publications/</link>
+    <description>Recent content in Publications on Eddie Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SGAS: Sequential Greedy Architecture Search</title>
+      <link>https://example.com/publications/sgas/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/sgas/</guid>
+      <description>Architecture design has become a crucial component of successful deep learning. Recent progress in automatic neural architecture search (NAS) shows a lot of promise. However, discovered architectures often fail to generalize in the final evaluation. Architectures with a higher validation accuracy during the search phase may perform worse in the evaluation (see Figure 1). Aiming to alleviate this common issue, we introduce sequential greedy architecture search (SGAS), an efficient method for neural architecture search.</description>
+    </item>
+    
+    <item>
+      <title>DeepGCNs: Making GCNs Go as Deep as CNNs</title>
+      <link>https://example.com/publications/deepgcns/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/deepgcns/</guid>
+      <description>Convolutional Neural Networks (CNNs) have been very successful at solving a variety of computer vision tasks such as object classification and detection, semantic segmentation, activity understanding, to name just a few. One key enabling factor for their great performance has been the ability to train very deep CNNs. Despite their huge success in many tasks, CNNs do not work well with non-Euclidean data which is prevalent in many real-world applications. Graph Convolutional Networks (GCNs) offer an alternative that allows for non-Eucledian data as input to a neural network similar to CNNs.</description>
+    </item>
+    
+  </channel>
+</rss>
